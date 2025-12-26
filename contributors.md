@@ -17,6 +17,7 @@
 | Ishan Raj Singh | ishanrajsingh | Amity, Noida | A2305225427 | 1 |
 |Rushal verma |Rushalverma   | IIITA   | IIT2024045     | 1 |
 | Satwik Santosh | DeadlySatwik | IIITA | IIT2024084 | 1 |
+| Sudhanshu | sahsudhanshu | IIITA | IIT2024081 | 1 |
 
 <!-- ADD ABOVE THIS-->
 <!--example |P.Diddy | KoveLids |Reyansh College| IIT2024069| 0|>
